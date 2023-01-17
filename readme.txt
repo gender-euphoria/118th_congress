@@ -1,1 +1,1 @@
-Do I still remember how to git?
+This is a small project demonstrating how unrepresentative the House of Representatives is.
